@@ -1,0 +1,14 @@
+{
+  "apps": [
+    {
+      "name": "VLIZ The Last Light",
+      "path": "ios-vliz-the-last-light",
+      "framework": "swift",
+      "settings": {
+        "swiftSibling": false,
+        "previewOrientation": "landscape"
+      }
+    }
+  ],
+  "$schema": "https://rork.com/schema/rork.json"
+}
